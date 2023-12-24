@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(73, 73, 73);
+}
+.container {
+  width: 85%;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: rgb(43, 43, 43);
+}
+.hero{
+  width: 100%;
+  height: 400px;
+  background-image: url(https://media.istockphoto.com/id/1432956286/photo/aerial-view-of-beautiful-orange-trees-on-the-hill-and-mountains-in-low-clouds-at-sunrise-in.webp?b=1&s=612x612&w=0&k=20&c=3et9xr5VYv9qW8XBmjvZd8jRIM26b4g4sRAvRILodaI=);  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.btn{
+  width: 100px;
+  padding: 10px;
+  background-color: blueviolet;
+  border-radius: 20px;
+  color: white;
+  margin-left: 600px;
+  margin-top: 80px;
+}
+h1 {
+  color: wheat;
+  text-align: center;
+  padding: 100px;
+}
+.box {
+  width: 30%;
+  height: 300px;
+  margin: auto;
+  background-color: rgb(63, 172, 245);
+  border-radius: 20px;
+  text-align: center;
+}
+h2 {
+  padding-top: 120px;
+  font-size: 53px;
+}
